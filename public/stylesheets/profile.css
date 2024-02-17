@@ -17,6 +17,7 @@
     padding: 20px;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
   }
   
   .profile-picture {
@@ -62,5 +63,12 @@
   
   .button:hover {
     background-color:#f30d18c3;
+  }
+
+  .flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+   align-items: start;
   }
   
